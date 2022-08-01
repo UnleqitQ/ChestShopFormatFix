@@ -1,0 +1,5 @@
+name: ChestShopFormatFix
+version: '${project.version}'
+main: me.unleqitq.chestshopformatfix.ChestShopFormatFix
+api-version: 1.18
+depend: [ChestShop]
